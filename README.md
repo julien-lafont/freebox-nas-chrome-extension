@@ -3,7 +3,6 @@
 
 **Contrôler votre Freebox Revolution depuis le navigateur Chrome**
 
-## Fonctionnalités
 ### Version stable
  - Activer/désactiver le nas en un clic (permet de récupérer tout le débit de la box)<br>
 ![Nas On](http://up.studio-dev.fr/_/extensionchrome1.png) ![Nas Off](http://up.studio-dev.fr/_/extensionchrome2.png)
@@ -26,17 +25,16 @@
 # English
 **Control your Freebox Revolution from Chrome browser**
 
-## Features
 ### Stable version
  - Switch NAS (on/off) in one click
  - That's all 
 
-### Next comming
+### Coming soon
  - Display current brandwidth
  - Add download
  - Start/Stop all torrents
 
-## Install
+### Install
  - [Download package](https://github.com/studiodev/freebox-nas-chrome-extension/zipball/master)
  - Unzip it where you want
  - Open chrome and go to **Extension** tab
