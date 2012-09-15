@@ -1,0 +1,17 @@
+ body {
+  min-width:75px;
+  overflow-x:hidden;
+  background-color: #f0f0f0;
+}
+
+.switch {
+  width: 75px;
+  height: 31px;
+  background: url("images/onoff.png") no-repeat 0 0;
+  cursor: pointer;
+  display: none;
+}
+
+.switch.off {
+  background-position: right;
+}

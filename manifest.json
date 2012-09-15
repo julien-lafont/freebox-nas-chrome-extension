@@ -1,0 +1,19 @@
+{
+  "name": "Freebox Shortcuts",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Shortcuts for freebox revolution",
+  "homepage_url": "http://www.studio-dev.fr",
+  "browser_action": {
+    "default_icon": "icons/icon-19.png",
+    "default_popup": "popup.html"
+  },
+  "options_page": "fancy-settings/source/index.html",
+  "icons": {
+    "48": "icons/icon-48.png"
+  },
+  "permissions": [
+    "http://*/"
+  ],
+  "content_security_policy": "script-src 'self' https://ajax.googleapis.com; object-src 'self'"
+}
