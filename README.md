@@ -5,7 +5,7 @@
 
 ## Fonctionnalités
 ### Version stable
- - Activer/désactiver le nas en un clic (permet de récupérer tout le débit de la box)
+ - Activer/désactiver le nas en un clic (permet de récupérer tout le débit de la box)<br>
 ![Nas On](http://up.studio-dev.fr/_/extensionchrome1.png) ![Nas Off](http://up.studio-dev.fr/_/extensionchrome2.png)
 
 
